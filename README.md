@@ -51,21 +51,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatrav&" alt="bharatrav" /></p>
 
-- ⚡ Fun fact **I Love Teekha(Spicy)**
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bharatrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharatrav" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/bharat rav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bharat rav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bharat rav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat rav" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@bharatrav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@bharatrav" height="30" width="40" /></a>
-</p>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatrav&label=Profile%20views&color=0e75b6&style=flat" alt="bharatrav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharatrav" alt="bharatrav" /></a> </p> -->
-
-
-
