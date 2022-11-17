@@ -1,12 +1,12 @@
 <!-- 
 <h1 align="center">Hi 👋, I'm Bharat Rav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3> -->
-
+<!-- 
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **Data Structure**
 
-- 📫 How to reach me **bharatrav8077@gmail.com**
+- 📫 How to reach me **bharatrav8077@gmail.com** -->
 
 
 <h1 align="center">Hi 👋, I'm Bharat Rav</h1>
