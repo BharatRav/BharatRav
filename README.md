@@ -58,23 +58,19 @@
             <table>
                 <tr>
                     <td>
-                        <img height=180 src="https://github-readme-streak-stats.herokuapp.com/?user=bharatgl&&show_icons=true&&theme=algolia" alt="GitHub Stats" />
+                        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatrav&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
                     </td>
-<!--                     <td>
-                        <img height=180 src="https://github-readme-stats.vercel.app/api?username=bharatgl&&show_icons=true&theme=algolia">
-                    </td> -->
                 </tr>
             </table>
             <table>
                 <tr>
                     <td align="center">
-                        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgl&&layout=compact&&show_icons=true&&theme=algolia" >
+                        <img height=180 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgl&&layout=compact&&show_icons=true&&theme=algolia](https://github-readme-stats.vercel.app/api?username=bharatrav&show_icons=true&locale=en)" >
                     </td>
                 </tr>
             </table>
             <br>
-            <img width="800" height="auto" src="https://activity-graph.herokuapp.com/graph?username=bharatgl&bg_color=050f2c&color=fff&line=0194dd&point=5194f0&area=true" alt="Daily Contribution Graph" />
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharatgl&theme=nord_bright"  width="800" height="auto"  alt="Monthly Contribution Graph" >
+            <img width="800" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatrav&" alt="Daily Contribution Graph" />
         </div>
     </p>
 </div>
