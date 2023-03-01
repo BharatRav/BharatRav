@@ -47,31 +47,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharatrav&show_icons=true&locale=en" alt="bharatrav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatrav&" alt="bharatrav" /></p>
-
-
-
-
-
-<div>
-    <p align="center">
-        <div align="center">
-            <table>
-                <tr>
-                    <td>
-                        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=bharatrav&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
-                    </td>
-                </tr>
-            </table>
-            <table>
-                <tr>
-                    <td align="center">
-                        <img height=180 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=bharatgl&&layout=compact&&show_icons=true&&theme=algolia](https://github-readme-stats.vercel.app/api?username=bharatrav&show_icons=true&locale=en)" >
-                    </td>
-                </tr>
-            </table>
-            <br>
-            <img width="800" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatrav&" alt="Daily Contribution Graph" />
-        </div>
-    </p>
-</div>
-
